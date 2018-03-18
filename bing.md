@@ -31,7 +31,7 @@
 　　　　4）建议推广更多的单词学习方法在首页
 
 使用截图
-
+![](https://github.com/BYMMAX/Bing-NABCD/raw/master/picture/图片.png)
 
 
  
