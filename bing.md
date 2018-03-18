@@ -31,7 +31,8 @@
 　　　　4）建议推广更多的单词学习方法在首页
 
 使用截图
-![](https://github.com/BYMMAX/Bing-NABCD/raw/master/picture/图片1.png)
+
+![](https://github.com/BAYMMAX/Bing-NABCD/raw/master/picture/图片1.png) 
 
 
  
@@ -40,13 +41,15 @@
 ---------------
 　　bug 1：在微软官方商店下载词典时，适配windows 10桌面版的软件安装时出现错误，导致不能安装的未知错误。
 
-
+![](https://github.com/BAYMMAX/Bing-NABCD/raw/master/picture/图片2.png) 
 
  
 
 　　根本原因：软件适配不成功，有点系统版本和计算机位数支持不够完善，没有及时适配各个版本。
 
 　　bug 2：词性出错（‘有’为动词，但被翻译成了介词‘with’,整句话的含义都出现了很大的偏差
+  
+  ![](https://github.com/BAYMMAX/Bing-NABCD/raw/master/picture/图片3.png) 
 
  　　程序错误：上下文关联辅助判断词性
 
